@@ -1,0 +1,11 @@
+/* CustomNavbar.css */
+.custom-carousel-container {
+    height: 50vh; /* Ajusta este valor según sea necesario */
+    overflow: hidden;
+  }
+  
+  .custom-carousel-container img {
+    object-fit: cover;
+    height: 95%;
+    margin-top: -25%; /* Ajusta este valor para levantar la imagen */
+  }
