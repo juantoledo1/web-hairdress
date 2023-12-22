@@ -10,3 +10,7 @@
     margin-top: -25%; /* Ajusta este valor para levantar la imagen */
   }
   
+  .text-warning:hover {
+    background-color: #438bd4; /* Color de fondo al posarse */
+    color: #ffc107; /* Color del texto al posarse */
+  }
